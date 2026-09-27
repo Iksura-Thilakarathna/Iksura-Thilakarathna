@@ -1,8 +1,3 @@
-<!-- ANIMATED HEADER IMAGE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Animated Snake Graphic" width="100%">
-</div>
-
 <h1 align="center">Hi there, I'm Iksura Thilakarathna 👋</h1>
 <h4 align="center">Information Systems Undergrad | Designer | Dev & Freelancer</h4>
 
@@ -24,7 +19,6 @@ I'm an Information Systems student based in Colombo, Sri Lanka, focused on build
 <br>
 
 ### Languages & Tools
-<!-- ANIMATED SKILL ICONS - These will render as beautiful animated glass icons -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,androidstudio,firebase,mysql,figma,github,vscode,html,css,js&theme=dark" />
@@ -33,12 +27,6 @@ I'm an Information Systems student based in Colombo, Sri Lanka, focused on build
 
 <br>
 
-### 📈 GitHub Stats
-<!-- TRANSPARENT STATS CARDS (Looks very clean and native to GitHub) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iksura-Thilakarathna&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=888888" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iksura-Thilakarathna&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=888888" alt="GitHub Streak" width="48%" />
-</p>
 
 <div align="left">
   <a href="mailto:your.email@example.com">
