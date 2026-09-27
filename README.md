@@ -27,15 +27,14 @@ I'm an Information Systems student based in Colombo, Sri Lanka, focused on build
 
 <br>
 
-### 📈 GitHub Stats
-<!-- TRANSPARENT STATS CARDS (Looks very clean and native to GitHub) -->
+### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iksura-Thilakarathna&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=888888" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iksura-Thilakarathna&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=888888" alt="GitHub Streak" width="48%" />
 </p>
 
 
 <div align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="yithilakarathna@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-38B6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
