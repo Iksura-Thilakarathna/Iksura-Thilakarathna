@@ -17,8 +17,31 @@
 
 I'm an Information Systems student based in Colombo, Sri Lanka, focused on building practical, problem-solving software. I enjoy taking projects from the initial system design phase all the way to a working prototype. Currently open for freelance opportunities!
 
-### What I'm currently working on
-- **Lanka Renters:** A comprehensive vehicle rental management platform connecting customers, owners, and drivers.
-- **Logistics Tracker:** An offline-first Android application designed for delivery personnel to track daily routes, driven distances, and automate weekly Friday-to-Thursday cheque calculations.
+###  What I'm currently working on
+-  **Lanka Renters:** A comprehensive vehicle rental management platform connecting customers, owners, and drivers.
+-  **Logistics Tracker:** An offline-first Android application designed for delivery personnel to track daily routes, driven distances, and automate weekly Friday-to-Thursday cheque calculations. 
 
 <br>
+
+### Languages & Tools
+<!-- ANIMATED SKILL ICONS - These will render as beautiful animated glass icons -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,androidstudio,firebase,mysql,figma,github,vscode,html,css,js&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+### 📈 GitHub Stats
+<!-- TRANSPARENT STATS CARDS (Looks very clean and native to GitHub) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iksura-Thilakarathna&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=888888" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iksura-Thilakarathna&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=888888" alt="GitHub Streak" width="48%" />
+</p>
+
+<div align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-38B6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
